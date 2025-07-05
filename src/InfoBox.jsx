@@ -34,7 +34,6 @@ export default function InfoBox({ info }) {
                   The weather can be described as <b>{info.weather}</b> and
                   feels like {info.feelsLike}&deg;C
                 </p>
-                <p></p>
               </Typography>
             </CardContent>
           </CardActionArea>
